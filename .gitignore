@@ -1,0 +1,29 @@
+﻿# Gradle
+.gradle/
+.gradle
+.kotlin/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+# Android NDK / CMake
+.cxx/
+.externalNativeBuild/
+**/CMakeFiles/
+# Arquivos gerados
+captures/
+*.apk
+*.aab
+*.so
+# SDK proprietário do Discord: manter apenas localmente
+app/libs/discord_partner_sdk.aar
+backup-sdk/
+# Sistema operacional
+.DS_Store
+Thumbs.db
+# Configurações locais e segredos
+*.jks
+*.keystore
+secrets.properties
