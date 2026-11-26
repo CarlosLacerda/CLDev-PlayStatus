@@ -1,5 +1,16 @@
 ﻿# CLDev PlayStatus
 
+ <p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-2.0.21-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-8.9-02303A?logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-4.1.2-064F8C?logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/NDK-27.2-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_API-26%2B-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-ARM64-blue" />
+  <img src="https://img.shields.io/badge/Status-In_Development-orange" />
+</p>
+
 Aplicativo Android que conecta o PlayStation 3 ao Discord, permitindo exibir automaticamente o jogo em execução no perfil do usuário por meio do **Discord Rich Presence**.
 
 O projeto utiliza o WebMAN MOD para identificar os jogos no PS3, a TheGamesDB para recuperar informações e capas e o Discord Social SDK para publicar a atividade no Discord.
